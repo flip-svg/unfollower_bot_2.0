@@ -17,6 +17,6 @@ Changelogs:
 Installation (run terminal as root):
 1) apt update
 2) apt install git curl -y
-3) git clone git://github.com/htr-tech/unfollow-plus.git
+3) git clone https://github.com/flip-svg/unfollower_bot_2.0.git
 4) cd unfollower_bot_2.0
 5) bash unfollower.sh
